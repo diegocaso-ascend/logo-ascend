@@ -1,4 +1,6 @@
 {
-"default":"https://msgsndr-private.storage.googleapis.com/companyPhotos/d0fcf948-bed9-4138-9aec-687da2c9e321.png",
-"locations":{"noK8xj8OJMvmEaM9chQz": "https://assets.cdn.filesafe.space/noK8xj8OJMvmEaM9chQz/media/6a014f2243d11507db7670cb.png"}
+  "locations": {
+    "noK8xj8OJMvmEaM9chQz": "https://assets.cdn.filesafe.space/noK8xj8OJMvmEaM9chQz/media/6a014f2243d11507db7670cb.png"
+  },
+  "default": "https://msgsndr-private.storage.googleapis.com/companyPhotos/d0fcf948-bed9-4138-9aec-687da2c9e321.png"
 }
